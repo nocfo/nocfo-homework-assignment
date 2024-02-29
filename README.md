@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> If you have technical challenges with completing the task, you can contact Juho via email at juho.enala@nocfo.io. However, note that the task should be returned to Kiira, her email and instructions for returning the assignment are at the end of these instructions.
+
 # NOCFO Homework Assignment
 
 Hi there, and thank you for showing interest in our company! The homework assignment is built on top of [Storybook](https://storybook.js.org/), so first, you need to install the dependencies and start the Storybook server. Then, you will see the instructions for the actual task. Let's get started:
